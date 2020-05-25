@@ -1,0 +1,1 @@
+print([(lambda a,b:a*b)(x1, x2) for x1 in range(2,10) for x2 in range(1,10)])
